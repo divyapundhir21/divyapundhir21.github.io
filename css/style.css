@@ -246,8 +246,10 @@ a:focus {
     position: relative;
     width: 100%;
     margin-bottom: 45px;
+    margin-top: 45px;
     padding: 5px 0 0 0;
-
+    min-height: 100vh;
+    
 
     overflow: hidden;
     background: linear-gradient(rgba(239, 35, 60, .95), rgba(239, 35, 60, .95));
